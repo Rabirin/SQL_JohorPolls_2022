@@ -1,7 +1,7 @@
 # SQL_JohorPolls_2022
 
 __Introduction__ <br>
-This is a work showcase of using SQL (in SQLite Studio) to obtain desired data/information for analysis on the Johor State Election held on 12 March 2022. <br>
+This is a work showcase of using SQL (in SQLite Studio) to obtain desired data/information for analysis on the Johor (A state in Malaysia) State Election held on 12 March 2022. <br>
 Raw data are extracted from references stated in "SQL_JohorStatePolls_2022.docx" and imported into SQL database "JohorPolls2022.db". <br>
 A few questions are posted and the desired results are obtained via a series of SQL queries as documented in "SQL_JohorStatePolls_2022.docx". <br>
 
